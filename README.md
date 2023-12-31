@@ -2,11 +2,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=print("Amanda%20Laís")&textBg=false&animation=fadeIn&stroke=000000&strokeWidth=2&section=header)
   <br>
+  <h1>About me</h1>
   <a href="https://github.com/amanda-lais"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amanda-lais/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amandalais37@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <br>
-  <h1>About me</h1>
   <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right"/>
   <br><br>
 <pre>
