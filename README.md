@@ -1,16 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=print("Amanda%20Laís")&textBg=false&animation=fadeIn&stroke=000000&strokeWidth=2&section=header)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /><br><br>
-</p>
-
-### About me
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right" />
-<br><br>
+  
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=print("Amanda%20Laís")&textBg=false&animation=fadeIn&stroke=000000&strokeWidth=2&section=header)
+  <br>
+  <a href="https://github.com/amanda-lais"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amanda-lais/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amandalais37@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <br>
+  <h1>About me</h1>
+  <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right"/>
+  <br><br>
 <pre>
     💼 Back-end dev
     • BCS at Universidade Prebisteriana Mackenzie (UPM)
@@ -30,49 +28,26 @@
   <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <br>
-  <a>And other things!</a>
-<br>
-</div>
-
+  <a> ...and other things!</a><br>
+  <h1>Tech Stack</h1>
+  <h3>Main</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,md,latex"/>
+  </a>
+  <h3>Studying or beginner</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,js"/>
+  </a>
+  <h3>Have certain experience with</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,html,css,java,aws,figma,ai,replit" />
+  </a>
+  
 ----
-
-### Languages
-#### Main
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,md,latex" />
-  </a>
-</p>
-
-#### Studying
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,js," />
-  </a>
-</p>
-
-#### Have certain experience with
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,html,css,java" />
-  </a>
-</p>
-
-----
-
-<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
   ![](https://github-readme-stats.vercel.app/api?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-</div>
-
-<br>
-<div align="center">
+  <br><br>
   <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="200"/>
+  
 </div>
