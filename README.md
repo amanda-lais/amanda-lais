@@ -12,7 +12,8 @@
 <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right" />
 <br><br>
 <pre>
-    💼 BCS at Universidade Prebisteriana Mackenzie (UPM) • Back-end dev
+    💼 Back-end dev
+    • BCS at Universidade Prebisteriana Mackenzie (UPM)
     • Researcher at the GETS research group (UPM)
     ⭐ Some interests: Anime • Astronomy • Games • Vtubers
     • Drawing • Music • Technology in general • Etc
@@ -71,8 +72,7 @@
 
 </div>
 
-<br><br>
+<br>
 <div align="center">
-  <br><br>
-  <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="100"/>
+  <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="200"/>
 </div>
