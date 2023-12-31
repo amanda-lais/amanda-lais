@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/amanda-lais/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amandalais37@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <h1>About me</h1>
-  <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="22%" align="right"/>
+  <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"/>
