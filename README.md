@@ -5,8 +5,10 @@
   <a href="https://github.com/amanda-lais"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amanda-lais/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amandalais37@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <h1>About me</h1>
-  <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right"/><br>
+  
+  <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="30%" align="right"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile!;About+me" alt="Typing SVG" width="70%"/></a>
+  <br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"/>
@@ -42,6 +44,6 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   ![](https://github-readme-stats.vercel.app/api?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   <br><br>
-  <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="200"/>
+  <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" width="30%"/>
   
 </div>
