@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /><br><br>
 </p>
 
-### Hello! (profile under construction)
+### About me
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right" />
@@ -17,10 +17,24 @@
     ⭐ Some interests: Anime • Astronomy • Games • Vtubers
     • Drawing • Music • Technology in general • Etc
 </pre>
-<img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="100"/>
-<br><br>
-<br><br><br>
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <br>
+  <a>And other things!</a>
+<br>
 </div>
+
+----
 
 ### Languages
 #### Main
@@ -47,19 +61,18 @@
   </a>
 </p>
 
-<!--
+----
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/amanda-lais/amanda-lais/main/assets/suisei-hoshimachi-suisei.gif" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=amanda-lais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</div>
+
 <br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
--->
+<div align="center">
+  <br><br>
+  <img src="https://github.com/amanda-lais/amanda-lais/blob/main/assets/LogobyDesigner%20(2).png" height="100"/>
+</div>
