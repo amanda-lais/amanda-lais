@@ -20,7 +20,7 @@
   <br><br>
 <pre>
     💼 Back-end dev
-    • BCS at Universidade Prebisteriana Mackenzie (UPM)
+    • BCS at (UPM)
     • Researcher at the GETS research group (UPM)
     ⭐ Some interests: Anime • Astronomy • Games • Vtubers
     • Drawing • Music • Technology in general • Etc
