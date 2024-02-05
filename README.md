@@ -9,7 +9,7 @@
 
 <h1>About me</h1>
 
-⭐ Back-end dev • BCS at UPM
+⭐ Programmer • BCS at UPM
 
 ⭐ Researcher at the GETS research group (UPM)
 
